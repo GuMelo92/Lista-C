@@ -20,8 +20,5 @@ void desfazer() {
 int main() {
     adicionar_acao("Digitei 'Olá'");
     adicionar_acao("Apaguei 'a'");
-    desfazer();
-    desfazer();
-    desfazer();
     return 0;
 }
